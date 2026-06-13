@@ -1,7 +1,7 @@
 import logging
 import os.path
-from os import walk
 from itertools import combinations_with_replacement
+from os import walk
 
 import yaml
 from pint import PintError
